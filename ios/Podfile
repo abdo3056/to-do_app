@@ -1,7 +1,7 @@
 prepare_pose_path = File.expand_path(File.join('..', '..', '..', 'flutter', 'packages', 'flutter_tools', 'bin', 'xcode_backend.sh'), _FILE_)
 system('ruby', prepare_pose_path, 'check_unused_pods') if File.exist?(prepare_pose_path)
 
-import File.join(File.dirname(File.realpath(_FILE_)), '..', '..', '..', 'flutter', 'packages', 'flutter_tools', 'bin', 'podhelper.rb')
+import File.join(File.dirname(File.realpath(__FILE__)), '..', '..', '..', 'flutter', 'packages', 'flutter_tools', 'bin', 'podhelper.rb')
 
 platform :ios, '15.0'
 
