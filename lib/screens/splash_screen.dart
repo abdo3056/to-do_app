@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:my_app/cubit/theme_cubit.dart';
-import 'package:my_app/Screens/to_do_screen.dart';
+import 'package:my_app/screens/to_do_screen.dart';
 import 'package:my_app/sharedPref.dart';
 import 'onboarding.dart';
 
