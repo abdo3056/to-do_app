@@ -98,10 +98,6 @@ flutter:
       fonts:
         - asset: assets/fonts/DancingScript-VariableFont_wght.ttf
           weight: 400
-    - family: Oswald
-      fonts:
-        - asset: assets/fonts/Oswald-VariableFont_wght.ttf
-          weight: 400
 
 
   #   - family: Trajan Pro
