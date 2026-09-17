@@ -1,17 +1,16 @@
-# todo_app
+# Fill my task 📝
 
-A new Flutter project.
+A simple app for recording, finishing and deleting tasks
 
-## Getting Started
+## How it works? 🤔
 
-This project is a starting point for a Flutter application.
+With this app, you can assign your tasks. Finish them by using checkbox.
+You can also delete tasks you have done or edit them if you like.
+### Take a look in the following screenshots 👇
+<img width="738" height="1600" alt="splash-screen" src="https://github.com/user-attachments/assets/221a4f55-c276-4f5f-b4a3-21de7a401b36" />
+<img width="738" height="1600" alt="light-mode" src="https://github.com/user-attachments/assets/49c21960-6708-4596-a89f-7a5120fd4ba9" />
+<img width="738" height="1600" alt="practice-task" src="https://github.com/user-attachments/assets/b596f2e2-6d3a-4cd9-aedd-79e83ab42564" />
+<img width="738" height="1600" alt="home" src="https://github.com/user-attachments/assets/c63619f5-95b5-41be-bfb1-b4505a095180" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
