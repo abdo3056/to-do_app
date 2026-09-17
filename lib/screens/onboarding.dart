@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_app/screens/to_do_screen.dart';
-import 'package:my_app/on_boarding_model.dart';
+import 'package:my_app/OnBoardingModel.dart';
 import '../sharedPref.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
