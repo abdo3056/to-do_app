@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:my_app/cubit/test_state.dart';
-import 'package:my_app/sqdb.dart';
+import 'package:my_app/Sqdb.dart';
 
 class TestCubit extends Cubit<TestState> {
   TestCubit() : super(TestInitial());
