@@ -15,8 +15,8 @@ class ThemeCubit extends Cubit<ThemeMode>{
   }
 
   toggleTheme(bool isDark) {
-    ThemeMode newTheme = isDark? ThemeMode.dark : ThemeMode.light;
-    CacheHelper.setData(key: 'themeMode', value: isDark ? 'dark' : 'light');
+    ThemeMode newTheme = isDark? ThemeMode.light : ThemeMode.dark;
+    CacheHelper.setData(key: 'themeMode', value: isDark ? 'light' : 'dark');
     emit(newTheme);
   }
 

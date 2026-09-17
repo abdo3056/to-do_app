@@ -1,17 +1,17 @@
-## Fill my task
-First app I've ever made
+# todo_app
 
-Created with love and passion✨🔥
+A new Flutter project.
 
-Used State management Cubit for more organiztion to the app and also clean architecture for more illustration 😊
+## Getting Started
 
-# Here are the screenshots 👇
+This project is a starting point for a Flutter application.
 
-![home light](https://github.com/user-attachments/assets/a6c604c6-ccd7-4b3c-b37c-37cd1006b99e)
+A few resources to get you started if this is your first Flutter project:
 
-![home dark](https://github.com/user-attachments/assets/fabb44c2-8345-44e9-be59-04d679653af6)
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-![task light](https://github.com/user-attachments/assets/7a8a9283-1fbe-4b1a-b363-7a74d8a1e1fd)
-
-
-![task dark](https://github.com/user-attachments/assets/e767fb7d-a46c-4cf4-a1ec-3e03e7cc1ce0)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

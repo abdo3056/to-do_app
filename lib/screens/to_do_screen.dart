@@ -44,7 +44,7 @@ class _ToDoScreenState extends State<ToDoScreen> {
         centerTitle: true,
         leading: BlocBuilder<ThemeCubit, ThemeMode>(
           builder: (context, themeMode) {
-            bool isDark = themeMode == ThemeMode.light;
+            bool isDark = themeMode == ThemeMode.dark;
             return IconButton(
               onPressed: () {
                 context.read<ThemeCubit>().toggleTheme(isDark);
