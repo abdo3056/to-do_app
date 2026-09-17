@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:my_app/sharedPref.dart';
+import 'package:my_app/SharedPref.dart';
 
 class ThemeCubit extends Cubit<ThemeMode>{
   ThemeCubit() : super (ThemeMode.system) {loadTheme();}
