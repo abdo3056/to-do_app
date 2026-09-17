@@ -26,8 +26,8 @@ You can also delete tasks you have done or edit them if you like.
 To run this project locally:
 
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-cd your-repo
+git clone [https://github.com/abdo3056/to-do_app]
+cd to-do_app
 flutter pub get
 flutter run
 
